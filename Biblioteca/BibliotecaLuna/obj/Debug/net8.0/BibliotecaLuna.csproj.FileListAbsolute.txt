@@ -1,0 +1,15 @@
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.AssemblyInfoInputs.cache
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.AssemblyInfo.cs
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.csproj.CoreCompileInputs.cache
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.sourcelink.json
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.exe
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.deps.json
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.runtimeconfig.json
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.dll
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.pdb
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.dll
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\refint\BibliotecaLuna.dll
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.pdb
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.genruntimeconfig.cache
+C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\ref\BibliotecaLuna.dll
