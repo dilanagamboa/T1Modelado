@@ -13,3 +13,18 @@ C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\refi
 C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.pdb
 C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.genruntimeconfig.cache
 C:\Documentos\Datos 1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\ref\BibliotecaLuna.dll
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.exe
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.deps.json
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.runtimeconfig.json
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.dll
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\bin\Debug\net8.0\BibliotecaLuna.pdb
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.AssemblyInfoInputs.cache
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.AssemblyInfo.cs
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.csproj.CoreCompileInputs.cache
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.sourcelink.json
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.dll
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\refint\BibliotecaLuna.dll
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.pdb
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\BibliotecaLuna.genruntimeconfig.cache
+C:\Users\migue\capps\tarea1-datos1\T1Modelado\Biblioteca\BibliotecaLuna\obj\Debug\net8.0\ref\BibliotecaLuna.dll

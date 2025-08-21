@@ -160,7 +160,10 @@ namespace BibliotecaLuna
         }
 
         //Mostrar Publicaciones disponibles para el usuario
-
+        public void VerReportePrestamos()
+        {
+            Console.WriteLine("Reporte de préstamos:");
+        }
         private void MostrarPublicacionesDisponibles()
         {
             Console.WriteLine("PUBLICACIONES DISPONIBLES:");
