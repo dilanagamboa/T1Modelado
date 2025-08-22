@@ -26,7 +26,10 @@ namespace BibliotecaLuna
         public abstract void MostrarInformacion();
 
         //Metodo abstracto para mostrar el tiempo que se ude prestar cada publicacion
-        public abstract void DiasPrestamo();
+        public virtual void DiasPrestamo()
+        {
+            Console.WriteLine(" ✧˖° La publicación se puede prestar por un máximo de 1 mes ");
+        }
     }
 
     // Clases hija de publicacion

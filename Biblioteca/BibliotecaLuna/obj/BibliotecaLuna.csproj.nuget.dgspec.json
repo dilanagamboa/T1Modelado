@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\capps\\tarea1-datos1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj": {}
+    "C:\\Documentos\\Datos 1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\capps\\tarea1-datos1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj": {
+    "C:\\Documentos\\Datos 1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\capps\\tarea1-datos1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj",
+        "projectUniqueName": "C:\\Documentos\\Datos 1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj",
         "projectName": "BibliotecaLuna",
-        "projectPath": "C:\\Users\\migue\\capps\\tarea1-datos1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj",
-        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\capps\\tarea1-datos1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\obj\\",
+        "projectPath": "C:\\Documentos\\Datos 1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\BibliotecaLuna.csproj",
+        "packagesPath": "C:\\Users\\alann\\.nuget\\packages\\",
+        "outputPath": "C:\\Documentos\\Datos 1\\T1Modelado\\Biblioteca\\BibliotecaLuna\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\alann\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
